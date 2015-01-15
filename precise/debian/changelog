@@ -1,3 +1,9 @@
+gazebo4 (4.1.1-1~precise) precise; urgency=medium
+
+  * gazebo4 4.1.1-1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Thu, 15 Jan 2015 15:02:18 -0800
+
 gazebo4 (4.1.0-1~precise) precise; urgency=medium
 
   * gazebo4 4.1.0-1 release
